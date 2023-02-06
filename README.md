@@ -15,3 +15,7 @@ Uppdatera så den använder sig av useState för att lägga till en ny föroläm
 
 **Ifall man vill utmana sig**
 Pixel editor: https://gist.github.com/zocom-christoffer-wallenberg/f8c998be8558d9e32d138fad6339540d
+
+## Use effect övningar
+
+https://gist.github.com/zocom-christoffer-wallenberg/593697e61f6beb33614177498e197f08
